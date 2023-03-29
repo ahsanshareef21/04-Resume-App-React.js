@@ -2,7 +2,7 @@
 
 ### Output Screen shoot
 
-![alt text](https://github.com/ahsanshareef21/Resume-App-React.js/blob/Master/121.png)
+![alt text](https://github.com/ahsanshareef21/Resume-App-React.js/blob/Master/img/screenshoot.png)
 
 # This App is Deployed On netlify:
 
