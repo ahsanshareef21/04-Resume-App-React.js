@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-// import img1 from "./img1.jpg";
+// import img1 from "./img/profile_Img.jpg";
 
 const App = () => {
   return (
